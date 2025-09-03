@@ -1,5 +1,14 @@
 body {
-    background-color: #b1f1f8
+    background-color: #b1f1f8;
+    margin: 0;
+}
+
+.mainpage {
+  margin: 8px
+}
+
+.mainheader{
+  margin: 8px
 }
 
 .navbar {
