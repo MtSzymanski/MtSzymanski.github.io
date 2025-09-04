@@ -14,13 +14,18 @@ body {
 }
 
 .mainheader h1 {
-  font-size: 23px;
+  font-size: 37px;
 }
 
 #milosz_pic{
   margin-right: 8px;
   border: 6px solid #10abbc;
   padding: 3px;
+}
+
+#email{
+  padding: 10px;
+  border: 2px #333333; 
 }
 
 .navbar {
