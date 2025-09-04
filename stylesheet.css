@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-.mainpage {
+.mainbody {
   margin: 8px
 }
 
@@ -14,7 +14,8 @@ body {
 
 #milosz_pic{
   margin-right: 8px;
-  border: 5px solid #2cd9ed;
+  border: 6px solid #10abbc;
+  padding: 6px solid #2cd9ed;
 }
 
 .navbar {
