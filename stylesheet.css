@@ -44,6 +44,8 @@ body {
   display: inline-block;
   padding: 2px;
   width: 41px;
+  margin-top: 23px;
+  margin-right: 23px;
 }
 
 .paper h3{
