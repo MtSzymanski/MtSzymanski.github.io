@@ -1,6 +1,7 @@
 body {
     background-color: #b1f1f8;
     margin: 0;
+    font-family: Tahoma;
 }
 
 .mainbody {
@@ -9,12 +10,13 @@ body {
 
 .mainheader{
   margin: 8px;
-  padding-top: 23px;
+  padding-top: 29px;
   text-align: center;
 }
 
 .mainheader h1 {
   font-size: 37px;
+  margin-bottom: 0;
 }
 
 #milosz_pic{
@@ -26,6 +28,7 @@ body {
 #email{
   padding: 10px;
   border: 2px #333333; 
+  display: inline-block;
 }
 
 .navbar {
