@@ -10,6 +10,11 @@ body {
 .mainheader{
   margin: 8px;
   padding-top: 23px;
+  text-align: center;
+}
+
+.mainheader h1 {
+  font-size: 23px;
 }
 
 #milosz_pic{
